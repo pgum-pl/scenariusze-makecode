@@ -31,7 +31,9 @@ Krótki opis lekcji w kilku zdaniach.
 {do uzupełnienia}
 
 ## Przygotowania przed zajęciami
+
 **Potrzebny sprzęt**
+
 - Komputer ze współczesną przeglądarką internetową, działającym portem USB oraz dostępem do Internetu, lub
 - Telefon lub tablet ze współczesną przeglądarką internetową z łącznością Bluetooth, zainstalowaną aplikacją BBC micro:bit oraz dostępem do Internetu
 - Płytka BBC micro:bit
@@ -39,6 +41,7 @@ Krótki opis lekcji w kilku zdaniach.
 - Źródło zasilania 3V (np.: Koszyk z dwoma bateriami z kablem ze złączem JST PH)
 
 **Potrzebne oprogramowanie**
+
 Edytor Microsoft MakeCode dostępny jest z poziomu strony www ([makecode.microbit.org](https://makecode.microbit.org/)). W systemach Windows 10, w sklepie Microsoft Store dostępna jest bezpłatna, dedykowana aplikacji o identycznej funkcjonalności.
 
 ## Wprowadzenie w tematykę i integracja grupy (5 min.)
